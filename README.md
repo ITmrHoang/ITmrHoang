@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ITmrHoang
 - 👀 I’m interested in coder and business
 - 🌱 I’m currently learning : php, python
-- 💞️ I’m looking to collaborate on : no Freelance
+- 💞️ I’m looking to collaborate on :Freelance, office
 - 📫 How to reach me fb: mrh2510 tel: 0344281487
 
 <!---
